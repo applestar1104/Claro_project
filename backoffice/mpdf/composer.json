@@ -1,0 +1,12 @@
+{
+    "name": "apple/mpdf-8.0.4",
+    "authors": [
+        {
+            "name": "Ming Tai",
+            "email": "apple19921104@hotmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    }
+}
